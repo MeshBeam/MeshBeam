@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeshBeam
-- 👀 I’m interested in Web3 technologies. 
-- 🌱 I’m currently learning Blockchain Development
+- 👀 I’m a Web3 Community Builder & Co-Founder
+- 🌱 I’m currently learning XR development
 - 💞️ I’m looking to collaborate on Blockchain Interoperability 
 - 📫 How to reach me meshbeamio@gmail.com 
 
